@@ -1,5 +1,6 @@
 #include<iostream>
-#include<string>
+
+
 class Human{
 public:
 
@@ -17,12 +18,12 @@ public:
 // main method
 int main(){
 
+// object of type Human of avanish is created into stack
   Human avanish;
 
   avanish.id = 102;
   avanish.name = "Avanish";
   avanish.printHuman();
-
 
 
   return 0;
