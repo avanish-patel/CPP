@@ -23,6 +23,7 @@ int main(){
 
   avanish.id = 102;
   avanish.name = "Avanish";
+
   avanish.printHuman();
 
 
