@@ -9,7 +9,7 @@ int main(){
     do{
         cout << i << endl;
         i--;
-        
+        a
     }while(i >=0);
 
 }
